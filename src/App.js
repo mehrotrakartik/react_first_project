@@ -7,7 +7,7 @@ import Welcome from './components/Welcome';
 const App = () => {
   return (
     <div className='App'>     
-      <Welcome name="Kartik" />
+      <Welcome name="Kartik Mehrotra" />
     </div>
   );
 }
